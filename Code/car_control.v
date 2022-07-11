@@ -1,4 +1,4 @@
-module car_control(clk, rst, mode, pwm, pwm2, in0, in1, in2, red, green, forward, back, trigger, dur, seg0, seg1, seg2, seg3,seg4, seg5);
+module car_control(clk, rst, mode, pwm, pwm2, in0, in1, in2, red, green, forward, back, trigger, dur, seg0, seg1, seg2, seg3,seg4, seg5); //C
 input clk, rst;
 input in0, in1, in2;
 input mode;
